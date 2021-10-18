@@ -13,3 +13,4 @@ https://awesomeopensource.com/project/airbnb/javascript
 
 https://awesomeopensource.com/projects/boilerplate/javascript
 
+https://awesomeopensource.com/projects/game/javascript
